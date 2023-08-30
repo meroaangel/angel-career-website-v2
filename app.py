@@ -7,7 +7,7 @@ JOBS = [
     'id' : 1,
     'title' : 'Cook' ,
     'location' : 'NeverEnd Ln, NJ',
-    'salary' : '$100,000'
+    'salary' : '$200,000'
   },
   {
     'id' : 2,
